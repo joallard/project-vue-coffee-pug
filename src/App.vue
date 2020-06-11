@@ -5,7 +5,7 @@
   </div>
 </template>
 
-<script>
+<script lang="coffee">
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {

@@ -30,7 +30,7 @@
   </div>
 </template>
 
-<script>
+<script lang="coffee">
 export default {
   name: 'HelloWorld',
   props: {
