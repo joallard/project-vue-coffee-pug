@@ -25,5 +25,8 @@
     "sass-loader": "^8.0.2",
     "vue-cli-plugin-coffee": "~0.5.12",
     "vue-template-compiler": "^2.6.11"
+  },
+  "resolutions": {
+    "eslint-plugin-vue/vue-eslint-parser": "github:helixbass/vue-eslint-parser#936ba67b"
   }
 }
